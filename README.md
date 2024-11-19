@@ -1,4 +1,4 @@
-![Header](https://github.com/Dewi-Afoko/Dewi-Afoko/blob/main/Dewi%20Afoko.png)
+![Header](https://github.com/Dewi-Afoko/Dewi-Afoko/blob/main/HeaderWithEmail.png)
 
 # 👋 Hi, I’m Dewi Afoko!  
 💻 **Aspiring Software/Data Engineer**  
@@ -75,6 +75,10 @@ My experience spans building booking platforms, social media sites, fitness trac
 - Collaborated on team projects, including a full-stack workout app.  
 
 ---
+
+## ✉️ Contact Details
+
+### **Email address in header**  
 
 <!---
 Dewi-Afoko/Dewi-Afoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
