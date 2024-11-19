@@ -1,6 +1,6 @@
 ![Header](https://github.com/Dewi-Afoko/Dewi-Afoko/blob/main/HeaderWithEmail.png)
 
-# 👋 Hi, I’m Dewi Afoko!  
+# 👋🏽 Hi, I’m Dewi Afoko!  
 💻 **Aspiring Software/Data Engineer**  
 🌍 **Based in London, UK**
 
