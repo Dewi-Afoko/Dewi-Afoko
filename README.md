@@ -78,7 +78,7 @@ My experience spans building booking platforms, social media sites, fitness trac
 
 ## ✉️ Contact Details
 
-### **Email address in header**  
+### **Email address in bottom-left corner of header**  
 ### **[LinkedIn](https://www.linkedin.com/in/dewi-a-0557a1335/)**
 
 <!---
