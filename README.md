@@ -25,7 +25,9 @@ My experience spans building booking platforms, social media sites, fitness trac
 - Customizable exercise routines by muscle groups.  
 - Logging of exercises with details like load and repetitions.  
 - Real-time weather data integration for tailored workouts.  
-- Favorites dashboard for quick access to preferred exercises.  
+- Favorites dashboard for quick access to preferred exercises.
+
+### Presentation of project and team processes: https://youtu.be/Py8htEAksEc?si=mLWIDyz_ex1mfTYL&t=2187
 
 ---
 
