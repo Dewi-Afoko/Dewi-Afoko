@@ -16,6 +16,18 @@ My experience spans building booking platforms, social media sites, fitness trac
 
 ## 💼 Projects
 
+
+
+### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
+**Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
+**Tech Stack**: Python, Flask, React, JavaScript, Bootstrap, HTML, CSS, MongoDB  
+📌 **Key Features**:  
+- Fully customizable user experience for workout tracking.
+
+
+--- 
+
+
 ### 🌦️ [WeatherOrNot](https://github.com/Dewi-Afoko/WeatherOrNot)  
 **Description**: "WeatherOrNot" is a comprehensive workout generator and tracker web application that personalizes exercise routines based on user preferences and local weather conditions. It offers features such as user authentication, weight tracking, exercise generation by muscle group, and weather-based exercise recommendations. The application also includes data visualization tools like weight progress charts and gauges, enhancing user engagement and motivation.  
 **Tech Stack**: JavaScript, React, CSS, Bootstrap, Python, Flask, PostgreSQL  
@@ -29,16 +41,9 @@ My experience spans building booking platforms, social media sites, fitness trac
 
 ### Presentation of project and team processes: https://youtu.be/Py8htEAksEc?si=mLWIDyz_ex1mfTYL&t=2187
 
----
-
-
-### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
-**Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
-**Tech Stack**: Python, Flask, React, JavaScript, Bootstrap, HTML, CSS, MongoDB  
-📌 **Key Features**:  
-- Fully customizable user experience for workout tracking.
 
 ---
+
 
 ### 🌐 [acebook-MERNie-Sanders](https://github.com/Dewi-Afoko/acebook-MERNie-Sanders)  
 **Description**: A social media platform inspired by Facebook, designed and developed as a group project during the Makers Academy bootcamp. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project showcases a full-stack implementation of a modern social networking application.  
