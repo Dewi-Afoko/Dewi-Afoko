@@ -31,6 +31,15 @@ My experience spans building booking platforms, social media sites, fitness trac
 
 ---
 
+
+### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
+**Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
+**Tech Stack**: Python, Flask, React, JavaScript, Bootstrap, HTML, CSS, MongoDB  
+📌 **Key Features**:  
+- Fully customizable user experience for workout tracking.
+
+---
+
 ### 🌐 [acebook-MERNie-Sanders](https://github.com/Dewi-Afoko/acebook-MERNie-Sanders)  
 **Description**: A social media platform inspired by Facebook, designed and developed as a group project during the Makers Academy bootcamp. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project showcases a full-stack implementation of a modern social networking application.  
 **Tech Stack**: React, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose ORM  
@@ -40,14 +49,6 @@ My experience spans building booking platforms, social media sites, fitness trac
 - Add comments and engage with other users.  
 - User interface optimized for mobile and desktop devices.  
 - Comprehensive test suite with Jest and Cypress.  
-
----
-
-### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
-**Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
-**Tech Stack**: Python, Flask, React, JavaScript, Bootstrap, HTML, CSS, MongoDB  
-📌 **Key Features**:  
-- Fully customizable user experience for workout tracking.
 
 ---
 
