@@ -20,7 +20,7 @@ My experience spans building booking platforms, social media sites, fitness trac
 
 ### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
 **Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
-**Tech Stack**: Python, Flask, React, JavaScript, Bootstrap, HTML, CSS, MongoDB  
+**Tech Stack**: Python, Flask, React, Vite, JavaScript, Bootstrap, HTML, CSS, MongoDB  
 📌 **Key Features**:  
 - Fully customizable user experience for workout tracking.
 
