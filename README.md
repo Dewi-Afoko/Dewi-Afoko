@@ -1,93 +1,118 @@
 ![Header](https://github.com/Dewi-Afoko/Dewi-Afoko/blob/main/HeaderWithEmail.png)
 
-# 👋🏽 Hi, I’m Dewi Afoko!  
-💻 **Aspiring Software/Data Engineer**  
-🌍 **Based in London, UK**
+# 👋🏽 Hey, I’m Dewi Afoko!  
+💻 **Software Engineer (Backend/Full Stack)**  
+🌍 **Based in London, UK**  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a junior software engineer with a diverse background in digital content, customer service, and security. I’ve recently completed a software engineering bootcamp and am eager to dive deeper into full-stack development and data engineering.  
+I’m a junior software engineer with a background that’s a bit all over the place—**digital content, customer service, security**—but that just means I’m good at adapting... Right?  
 
-Most of my experience is from bootcamp or personal projects, but always open to collaborating on an interesting idea – so give me a shout if you've got one!
+I started coding through **self-teaching**, then levelled up at **Makers Academy**, where I got hands-on with **Python, JavaScript, Flask, React, and databases**. I love building things that solve problems, whether that’s **automating tasks, integrating APIs, or making life a little easier with a web app**.  
+
+Right now, I’m getting stuck into **Django** by rebuilding my **HyPrOps workout tracker**—because why not make things harder for myself? TDD can't save you from deciding to pivot to a different framework!
+
+Always open to **collaborating on something interesting**, so if you’ve got an idea - gimme a shout! 
 
 ---
 
-## 💼 Projects
-
-
+## 💼 Projects  
 
 ### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
-**Description**: A solo project for a full-stack workout planning and tracking app, with plans to include Android Studio and React frontends.  
-**Tech Stack**: Python, Flask, React, Vite, JavaScript, Bootstrap, HTML, CSS, MongoDB  
-📌 **Key Features**:  
-- Fully customizable user experience for workout tracking.
+A **full-stack workout tracker** that lets users plan, log, and tweak their workouts. Originally built with Flask, but I’m now migrating it to **Django** because I enjoy making more work for myself. Eventually I'll get to the other features I want to implement, but for now, it works and I've got a small group of people using it!...
 
-
---- 
-
-
-### 🌦️ [WeatherOrNot](https://github.com/Dewi-Afoko/WeatherOrNot)  
-**Description**: "WeatherOrNot" is a comprehensive workout generator and tracker web application that personalizes exercise routines based on user preferences and local weather conditions. It offers features such as user authentication, weight tracking, exercise generation by muscle group, and weather-based exercise recommendations. The application also includes data visualization tools like weight progress charts and gauges, enhancing user engagement and motivation.  
-**Tech Stack**: JavaScript, React, CSS, Bootstrap, Python, Flask, PostgreSQL  
-📌 **Key Features**:  
-- Secure signup, login, and logout functionalities.  
-- Weight tracking with progress visualization.  
-- Customizable exercise routines by muscle groups.  
-- Logging of exercises with details like load and repetitions.  
-- Real-time weather data integration for tailored workouts.  
-- Favorites dashboard for quick access to preferred exercises.
-
-### Presentation of project and team processes: https://youtu.be/Py8htEAksEc?si=mLWIDyz_ex1mfTYL&t=2187
-
+🛠 **Tech:** Python, Flask (soon Django), React, JavaScript, Bootstrap, MongoDB  
+📌 **Key Features:**  
+- Customisable workout tracking  
+- Authentication & user profiles, including weight data (and log)
+- API integration for exercise data  
 
 ---
 
+### 🌦️ [WeatherOrNot](https://github.com/Dewi-Afoko/WeatherOrNot)  
+A **workout generator** that tailors exercise recommendations based on **user preferences + real-time weather data**. Built as a group project, where we all worked **across the whole stack**.  
+
+🛠 **Tech:** JavaScript, React, Python, Flask, PostgreSQL  
+📌 **Key Features:**  
+- Secure signup & login  
+- Tracks weight & workout progress  
+- Recommends ~workouts~ whether to go outside or not based on **actual weather conditions**  
+- Data visualisation tools (progress charts, etc.)  
+
+🎥 **Demo & team workflow overview:** [Watch here](https://youtu.be/Py8htEAksEc?si=mLWIDyz_ex1mfTYL&t=2187)  
+
+---
 
 ### 🌐 [acebook-MERNie-Sanders](https://github.com/Dewi-Afoko/acebook-MERNie-Sanders)  
-**Description**: A social media platform inspired by Facebook, designed and developed as a group project during the Makers Academy bootcamp. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project showcases a full-stack implementation of a modern social networking application.  
-**Tech Stack**: React, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose ORM  
-📌 **Key Features**:  
-- Secure user signup and login functionality.  
-- Create, edit, and delete posts.  
-- Add comments and engage with other users.  
-- User interface optimized for mobile and desktop devices.  
-- Comprehensive test suite with Jest and Cypress.  
+A **Facebook-style social media app** built with the MERN stack. Great for posting, commenting, and arguing with strangers (but only if we’d finished implementing that feature).  
+
+🛠 **Tech:** React, Node.js, Express.js, MongoDB  
+📌 **Key Features:**  
+- User signup/login  
+- Post, edit, and delete content  
+- Commenting & engagement features  
+- Fully tested with Jest & Cypress  
 
 ---
 
 ### 🎮 [Guess the Number (or City) Game](https://github.com/Dewi-Afoko/guess-the-number-and-city)  
-**Description**: A mobile game built with Kotlin and Android Studio as part of the Makers Mobile Applications Module.  
-**Tech Stack**: Kotlin, Android Studio  
-📌 **Key Features**:  
-- Originally a "Guess the Number" game with difficulty levels and hints.  
-- Expanded to include city guessing with vague clues.  
-- Interactive, responsive interface.
+A **mobile guessing game** built with Kotlin and Android Studio. Originally just a **"Guess the Number"** game, but we pivoted to include **city guessing with vague clues**—because why not?  
+
+🛠 **Tech:** Kotlin, Android Studio  
+📌 **Key Features:**  
+- Multiple difficulty levels  
+- Hints system  
+- Two game modes (numbers & cities)  
 
 ---
 
 ### 🌐 [Makersbnb-Fire](https://github.com/Dewi-Afoko/makersbnb-fire)  
-**Description**: An AirBnB-style booking platform developed during the Makers Academy bootcamp.  
-**Tech Stack**: Python, Flask, HTML, CSS, PostgreSQL  
-📌 **Key Features**:  
-- User authentication and property management.  
-- Dynamic booking system with calendar integration.  
+An **Airbnb-style booking platform** built in Python/Flask as a bootcamp project.  
+
+🛠 **Tech:** Python, Flask, PostgreSQL  
+📌 **Key Features:**  
+- User authentication  
+- Property listings & booking system  
+- Calendar integration  
 
 ---
 
-## 🌟 Formal Coding Experience
+## 🌟 Formal Coding Experience  
 
 ### **Software Engineering Bootcamp (Makers Academy, July - November 2024)**  
-- Learned full-stack development, test-driven development, and CI/CD pipelines.  
-- Collaborated on team projects, including a full-stack workout app.  
+- Learned full-stack development, **test-driven development (TDD), and CI/CD**.  
+- Built multiple projects, including a **full-stack workout tracker** and a **real-time weather-based exercise app**.  
+- Developed **problem-solving and Agile teamwork skills**.  
 
 ---
 
-## ✉️ Contact Details
+## ✉️ Contact Details  
 
-### **Email address in bottom-left corner of header**  
-### **[LinkedIn](https://www.linkedin.com/in/dewi-a-0557a1335/)**
+📧 **Email is in the header image**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/dewi-a-0557a1335/)**  
+
+---
+
+### **🛠 Tech Stack at a Glance**  
+💻 **Languages**: Python, JavaScript, SQL, Kotlin  
+🛠 **Frameworks**: Flask, Django (learning), React, Node.js  
+🗄️ **Databases**: PostgreSQL, MongoDB  
+🔗 **Other**: Git, CI/CD, Docker (basic)  
+
+---
+
+## 🏆 Goals for 2025  
+- **Get comfortable with Django** & migrate **HyPrOps**  
+- **Build a REST API from scratch**  
+- **Contribute to an open-source project**  
+- **Land an awesome software engineering role**  
+
+---
+
+## 🚀 Let’s Connect!  
+If you’re working on something cool—**drop me a message!**  
 
 <!---
 Dewi-Afoko/Dewi-Afoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
