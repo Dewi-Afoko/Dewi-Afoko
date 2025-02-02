@@ -21,7 +21,7 @@ Always open to **collaborating on something interesting**, so if you’ve got an
 ## 💼 Projects  
 
 ### 🏋🏽‍♂️ [HyPrOps-Workout-Tracker](https://github.com/Dewi-Afoko/HyPrOps-Workout-Tracker)  
-A **full-stack workout tracker** that lets users plan, log, and tweak their workouts. Originally built with Flask, but I’m now migrating it to **Django** because I enjoy making more work for myself. Eventually I'll get to the other features I want to implement, but for now, it works and I've got a small group of people using it!...
+A **full-stack workout tracker** that lets users plan, log, and tweak their workouts. Originally built with Flask, but I’m now migrating it to **Django** because I enjoy making more work for myself. Eventually I'll get to the other features I want to implement, but for now, it works and I've got a small group of people using it!
 
 🛠 **Tech:** Python, Flask (soon Django), React, JavaScript, Bootstrap, MongoDB  
 📌 **Key Features:**  
