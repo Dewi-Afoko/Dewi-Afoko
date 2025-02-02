@@ -105,6 +105,7 @@ An **Airbnb-style booking platform** built in Python/Flask as a bootcamp project
 
 ## 🏆 Goals for 2025  
 - **Get comfortable with Django** & migrate **HyPrOps**  
+- **Finish and deploy HyPrOps (now actually going by Gains Trust) including exercise database and statistical analysis of performance**  
 - **Build a REST API from scratch**  
 - **Contribute to an open-source project**  
 - **Land an awesome software engineering role**  
