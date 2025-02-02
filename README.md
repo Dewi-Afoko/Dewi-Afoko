@@ -112,7 +112,7 @@ An **Airbnb-style booking platform** built in Python/Flask as a bootcamp project
 
 ---
 
-## 🚀 Let’s Connect!  
+## 🚀 Hit me up!  
 If you’re working on something cool—**drop me a message!**  
 
 <!---
