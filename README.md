@@ -10,7 +10,7 @@
 
 I'm a junior software engineer with a diverse background in digital content, customer service, and security. I’ve recently completed a software engineering bootcamp and am eager to dive deeper into full-stack development and data engineering.  
 
-My experience spans building booking platforms, social media sites, fitness trackers, games, and mobile apps. I thrive in collaborative environments, love solving problems, and iterating on designs to create engaging user experiences.
+Most of my experience is from bootcamp or personal projects, but always open to collaborating on an interesting idea – so give me a shout if you've got one!
 
 ---
 
