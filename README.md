@@ -29,7 +29,7 @@ A **full-stack workout tracker** that lets users plan, log, and tweak their work
 - Authentication & user profiles, including weight data (and log)
 
 
-### [Gains_Trust_Unchained (Django Edition)](https://github.com/Dewi-Afoko/Gains_Trust_Unchanined) Rebuild with new tech stack! - WIP
+### ⛓️‍💥 [Gains_Trust_Unchained (Django Edition)](https://github.com/Dewi-Afoko/Gains_Trust_Unchanined) Rebuild with new tech stack! - WIP
 
 🛠 **Tech:** Python, Django, React, JavaScript, SQL(Postgres) 
 
