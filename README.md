@@ -10,7 +10,7 @@
 
 I’m a junior software engineer with a background that’s a bit all over the place—**digital content, customer service, security**—but that just means I’m good at adapting... Right?  
 
-I started coding through **self-teaching**, then levelled up at **Makers Academy**, where I got hands-on with **Python, JavaScript, Flask, React, and databases**. I love building things that solve problems, whether that’s **automating tasks, integrating APIs, or making life a little easier with a web app**.  
+I started coding through **teaching myself Python**, then attended **Makers Academy**, where I worked with **Python, JavaScript, HTML, CSS, Flask, React, Express and Node -- as well as SQL (Postgres) and NoSQL (MongoDB) databases**. I love building things that solve problems, whether that’s **automating tasks, integrating APIs, or (theoreticall) making life a little easier with a web app**.  
 
 Right now, I’m getting stuck into **Django** by rebuilding my **HyPrOps workout tracker**—because why not make things harder for myself? TDD can't save you from deciding to pivot to a different framework!
 
